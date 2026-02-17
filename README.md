@@ -1,6 +1,4 @@
-Here is your **professionally rewritten README content** — clean, structured, and recruiter-ready 👇
 
----
 
 # 🚖 Ola Ride Booking & Cancellation Analysis
 
