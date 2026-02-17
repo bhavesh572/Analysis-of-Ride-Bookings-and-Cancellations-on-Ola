@@ -82,16 +82,6 @@ SQL was used extensively to analyze ride patterns, cancellation behavior, revenu
 
 ---
 
-## 📂 SQL Scripts
-
-All SQL queries and analysis are available in:
-
-```
-sql/Ola_data_queries.sql
-```
-
----
-
 ## 🔍 Key Insights
 
 * Driver-initiated cancellations account for a significant portion of booking failures.
