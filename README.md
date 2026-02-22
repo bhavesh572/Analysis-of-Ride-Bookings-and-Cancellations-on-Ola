@@ -100,19 +100,6 @@ SQL was used extensively to analyze ride patterns, cancellation behavior, revenu
 
 ---
 
-## 📁 Repository Structure
-
-```
-Ola-Ride-Analysis/
-│
-├── Data/
-├── sql/
-│   └── Ola_data_queries.sql
-├── dashboards/
-├── README.md
-```
-
----
 
 ## ✅ Conclusion
 
